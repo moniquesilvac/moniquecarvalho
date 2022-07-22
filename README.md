@@ -4,7 +4,8 @@
 - 🔭 Atualmente estou a procura de um trabalho
 - 🌱 Atualmente estou aprendendo   Front-end
 - 😄 Pronomes: ela/dela
-
+ 
+ ##
 
 <div align = "centro">
   <a href="https://github.com/moniquecarvalho">
