@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou a procura de um trabalho
-- 🌱 Atualmente estou aprendendo   Front-end
+- 🌱 Atualmente estou aprendendo  Front-end
 - 😄 Pronomes: ela/dela
  
  ##
