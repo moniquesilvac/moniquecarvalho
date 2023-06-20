@@ -1,8 +1,8 @@
-## Olá ! Eu sou a Monique Carvalho 😁
+## Olá! Eu sou a Monique Carvalho 😁
 
 
 - 🔭 Atualmente estou a procura de um trabalho
-- 🌱 Atualmente estou aprendendo  Front-end
+- 🌱 Estudando Front-end
 - 😄 Pronomes: ela/dela
  
  ##
