@@ -38,15 +38,24 @@
 &nbsp;
 &nbsp;
 
-## Contato:
+## Experiência de trabalho
 
+#### Minha experiência de trabalho mais recente: <br><br>
+
+[<img align="left"  width="190px" alt="Rocketseat" src="https://astrocash.finance/wp-content/uploads/2023/03/MARCA-ASTRO-CASH-FINANCE_Tudo-Branco.png"/>](https://astrocash.me/)
+
+**Frot-end Junior (Pj)** \
+[**AstroCash Finance**](https://astrocash.finance/)  <br><br>
+Linguagens & Tecnologias:`HTML`, `CSS`, `JavaScript`\
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/moniquecarvalhodev/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+
+## Contato:
 <div> 
-<a href = "mailto:contato.moniquecarvalho654@gmail.com"> <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white  target="_blank"></a>
-<a href="https://www.linkedin.com/in/monique-carvalho-dev(https://www.linkedin.com/in/moniquecarvalhodev/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
- <a href="https://discord.gg/#2322" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
- </a> 
- 
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<a href = "mailto:contato.moniquecarvalho654@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link target="_blank"></a>
+<a href="https://www.linkedin.com/in/monique-carvalho-dev(https://www.linkedin.com/in/moniquecarvalhodev/)" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link  target="_blank"></a> 
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=(https://bit.ly/3YbVKQS)"/></a>
 
