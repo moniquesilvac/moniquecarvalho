@@ -41,7 +41,7 @@
 
 [<img align="left" height="94px"  width="150px" alt="Rocketseat" src="https://astrocash.finance/wp-content/uploads/2023/03/MARCA-ASTRO-CASH-FINANCE_Tudo-Branco.png"/>](https://astrocash.me/)
 
-**Frot-end Junior (Pj)** \
+**Front-end Junior (Pj)** \
 [**AstroCash Finance**](https://astrocash.finance/)  <br>
 Linguagens & Tecnologias:`HTML`, `CSS`, `JavaScript`\
 Projetos em destaque: [Pool GRM](https://astrocash.finance/pool-grm/), [App](https://astroplay.app/)
